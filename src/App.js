@@ -3,35 +3,35 @@ import { useState } from "react";
 const tempMusicData = [
   {
     id: 1,
-    title: "Song 1",
-    artist: "Artist A",
-    genre: "Pop",
-  },
-  {
-    id: 2,
-    title: "Song 2",
-    artist: "Artist B",
+    title: "Brainstorm",
+    artist: "Arctic Monkeys",
     genre: "Rock",
   },
   {
+    id: 2,
+    title: "Glimpse of Us",
+    artist: "Joji",
+    genre: "R&B",
+  },
+  {
     id: 3,
-    title: "Song 3",
-    artist: "Artist C",
-    genre: "Jazz",
+    title: "Eternal Summer",
+    artist: "The Strokes",
+    genre: "Rock",
   },
 ];
 const tempPlaylist = [
   {
     id: 1,
-    title: "Song 1",
-    artist: "Artist A",
-    genre: "Pop",
+    title: "Covet",
+    artist: "Basement",
+    genre: "Rock",
   },
   {
     id: 2,
-    title: "Song 2",
-    artist: "Artist B",
-    genre: "Rock",
+    title: "WASTE",
+    artist: "BROCKHAMPTON",
+    genre: "R&B",
   },
   {
     id: 3,
